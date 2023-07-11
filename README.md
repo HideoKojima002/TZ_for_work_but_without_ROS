@@ -2,7 +2,7 @@
  Technical task for a server with docker
 # How to run the program?
 
- First of all, create the VENA folder.
+ First of all, create the VENV folder.
  
  Install all dependencies from requirements.txt.
  
