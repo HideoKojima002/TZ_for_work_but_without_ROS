@@ -1,4 +1,4 @@
-# TZ_for_work_without_ROS
+# This is the technical task of the server part
  Technical task for a server with docker
 # How to run the program?
 
